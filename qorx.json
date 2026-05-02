@@ -1,12 +1,12 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Qorx language and runtime for local context resolution.",
   "homepage": "https://github.com/bbrainfuckk/qorx",
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/bbrainfuckk/qorx/releases/download/v1.0.2/qorx-v1.0.2-windows-x64.zip",
-      "hash": "ece330a4303de133c7bc87f87f8824d8f71054d78fcee86e1ace7ee7d3fd45d6"
+      "url": "https://github.com/bbrainfuckk/qorx/releases/download/v1.0.3/qorx-v1.0.3-windows-x64.zip",
+      "hash": "ae1a4c8b312dd233df44f4142452531e9fe7898bff6ca68e6499e6dc6013c87f"
     }
   },
   "bin": "qorx.exe",
